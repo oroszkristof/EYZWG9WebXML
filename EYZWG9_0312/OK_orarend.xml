@@ -1,4 +1,4 @@
-<? xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 
 <OK_orarend>
 
@@ -15,7 +15,7 @@
 </ora>
 
 <ora id="02" tipus="gyakorlat">
-    <targy>Komputergrafika</targy>
+    <targy>Komputergrafika és képfeldolgozás</targy>
     <idopont>
         <nap>Kedd</nap>
         <tol>12</tol>
@@ -46,19 +46,19 @@
         <tol>8</tol>
         <ig>11</ig>
     </idopont>
-    <helyszin>Terem 116</helyszin>
+    <helyszin>Terem: 116</helyszin>
     <oktato>Dr. Kucsinka Katalin</oktato>
     <szak>Programtervező Informatikus Bsc</szak>
 </ora>
 
 <ora id="05" tipus="gyakorlat">
-    <targy>Oktatás gamifikáció és videojáték tanulmányok</targy>
+    <targy>Oktatás és gamifikáció, videojáték - tanulmányok</targy>
     <idopont>
         <nap>Szerda</nap>
         <tol>12</tol>
         <ig>14</ig>
     </idopont>
-    <helyszin>Terem 116</helyszin>
+    <helyszin>Terem: Info132</helyszin>
     <oktato>Perlaki Attila</oktato>
     <szak>Programtervező Informatikus Bsc</szak>
 </ora>
@@ -70,19 +70,19 @@
         <tol>17</tol>
         <ig>19</ig>
     </idopont>
-    <helyszin>Terem 116</helyszin>
+    <helyszin>Online</helyszin>
     <oktato>Dr. Túri József</oktato>
     <szak>Programtervező Informatikus Bsc</szak>
 </ora>
 
 <ora id="07" tipus="gyakorlat">
-    <targy>Hálózat</targy>
+    <targy>Hálózati architektúrák és protokolok</targy>
     <idopont>
         <nap>Csütörtök</nap>
         <tol>9</tol>
         <ig>11</ig>
     </idopont>
-    <helyszin>Info124</helyszin>
+    <helyszin>Online</helyszin>
     <oktato>Dr. Mileff Péter</oktato>
     <szak>Programtervező Informatikus Bsc</szak>
 </ora>
@@ -94,7 +94,9 @@
         <tol>11</tol>
         <ig>13</ig>
     </idopont>
-    <helyszin>Info124</helyszin>
+    <helyszin>Terem: Info124</helyszin>
     <oktato>Dr. Bednarik László</oktato>
     <szak>Programtervező Informatikus Bsc</szak>
 </ora>
+
+</OK_orarend>
