@@ -39,7 +39,7 @@
                     <Nev>Kiss Péter</Nev>
 
                     <Gyakorlat>
-                        <Kezdete>2026-03-16</Kezdete>
+                        <Kezdete>2026.03.16</Kezdete>
                         <Idotartam>6 hónap</Idotartam>
                     </Gyakorlat>
                     <Muszak>Délelőtt</Muszak>
@@ -48,7 +48,7 @@
                     <Nev>Nagy Péter</Nev>
 
                     <Gyakorlat>
-                        <Kezdete>2026-03-16</Kezdete>
+                        <Kezdete>2026.03.16</Kezdete>
                         <Idotartam>6 hónap</Idotartam>
                     </Gyakorlat>
                     <Muszak>Délután</Muszak>
@@ -75,7 +75,7 @@
             <EtteremRef>E01</EtteremRef>
             <VendegRef>V01</VendegRef>
             <Etel>Pizza</Etel>
-            <Osszeg>3500</Osszeg>
+            <Osszeg>3500-Ft</Osszeg>
         </Rendeles>
     </Rendelesek>
 
