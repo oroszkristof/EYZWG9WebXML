@@ -2,7 +2,6 @@
 
 <EYZWG9_Vendeglatas>
 
-    <Ettermek>
         <Etterem id="E01">
             <Nev>Aranykanál Étterem</Nev>
 
@@ -20,45 +19,24 @@
                 <Vegzettseg>Szakács</Vegzettseg>
             </Foszakacs>
 
-            <Szakacsok>
-                <Szakacs id="SZ01">
-                    <Nev>Nagy János</Nev>
-                    <Reszleg>Hidegkonyha</Reszleg>
-                    <Vegzettseg>Szakács</Vegzettseg>
-                </Szakacs>
 
-                <Szakacs id="SZ02">
-                    <Nev>Szabó Péter</Nev>
-                    <Reszleg>Melegkonyha</Reszleg>
-                    <Vegzettseg>Szakács</Vegzettseg>
-                </Szakacs>
-            </Szakacsok>
+            <Szakacs id="SZ01">
+                <Nev>Nagy János</Nev>
+                <Reszleg>Hidegkonyha</Reszleg>
+                <Vegzettseg>Szakács</Vegzettseg>
+            </Szakacs>
 
-            <Gyakornokok>
-                <Gyakornok id="GY01">
-                    <Nev>Kiss Péter</Nev>
-
+            <Gyakornok id="GY01">
+                <Nev>Kiss Péter</Nev>
                     <Gyakorlat>
                         <Kezdete>2026.03.16</Kezdete>
                         <Idotartam>6 hónap</Idotartam>
                     </Gyakorlat>
                     <Muszak>Délelőtt</Muszak>
-                </Gyakornok>
-                <Gyakornok id="GY02">
-                    <Nev>Nagy Péter</Nev>
-
-                    <Gyakorlat>
-                        <Kezdete>2026.03.16</Kezdete>
-                        <Idotartam>6 hónap</Idotartam>
-                    </Gyakorlat>
-                    <Muszak>Délután</Muszak>
-                </Gyakornok>
-            </Gyakornokok>
+            </Gyakornok>
 
         </Etterem>
-    </Ettermek>
 
-    <Vendegek>
         <Vendeg id="V01">
             <Nev>Kiss Róbert</Nev>
             <Cim>
@@ -68,15 +46,12 @@
             </Cim>
             <Eletkor>30</Eletkor>
         </Vendeg>
-    </Vendegek>
 
-    <Rendelesek>
         <Rendeles>
             <EtteremRef>E01</EtteremRef>
             <VendegRef>V01</VendegRef>
             <Etel>Pizza</Etel>
             <Osszeg>3500-Ft</Osszeg>
         </Rendeles>
-    </Rendelesek>
 
 </EYZWG9_Vendeglatas>
