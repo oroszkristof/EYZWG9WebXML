@@ -2,7 +2,7 @@
 
 <EYZWG9_orarend xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" elemementFormDefault="qualified">
 
-<ora id="01" tipus="gyakorlat">
+<ora id="01" tipus="elmelet">
     <targy>Számításelmélet</targy>
     <idopont>
         <nap>Hétfő</nap>
@@ -39,7 +39,7 @@
 </ora>
 
 
-<ora id="04" tipus="gyakorlat">
+<ora id="04" tipus="elmelet">
     <targy>Valószínűségszámítás és statisztika</targy>
     <idopont>
         <nap>Szerda</nap>
@@ -63,7 +63,7 @@
     <szak>Programtervező Informatikus Bsc</szak>
 </ora>
 
-<ora id="06" tipus="gyakorlat">
+<ora id="06" tipus="elmelet">
     <targy>Fordítóprogramok</targy>
     <idopont>
         <nap>Szerda</nap>
@@ -75,7 +75,7 @@
     <szak>Programtervező Informatikus Bsc</szak>
 </ora>
 
-<ora id="07" tipus="gyakorlat">
+<ora id="07" tipus="elmelet">
     <targy>Hálózati architektúrák és protokolok</targy>
     <idopont>
         <nap>Csütörtök</nap>
