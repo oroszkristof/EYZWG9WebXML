@@ -2,56 +2,56 @@
 
 <EYZWG9_Vendeglatas xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespacesSchemaLocation="XDMEYZWG9.xsd">
 
-        <Etterem id="E01">
-            <Nev>Aranykanál Étterem</Nev>
+        <etterem ekod="E01">
+            <nev>Aranykanál Étterem</nev>
 
-            <Cim>
-                <Varos>Sárospatak</Varos>
-                <Utca>Fő utca</Utca>
-                <Hazszam>10</Hazszam>
-            </Cim>
+            <cim>
+                <varos>Sárospatak</varos>
+                <utca>Fő utca</utca>
+                <hazszam>10</hazszam>
+            </cim>
 
-            <Csillag>5/5</Csillag>
+            <csillag>5/5</csillag>
 
-            <Foszakacs id="F01">
-                <Nev>Kiss Márton</Nev>
-                <Eletkor>45</Eletkor>
-                <Vegzettseg>Szakács</Vegzettseg>
-            </Foszakacs>
+            <foszakacs fkod="F01" e_f="E01">
+                <nev>Kiss Márton</nev>
+                <eletkor>45</eletkor>
+                <vegzettseg>Szakács</vegzettseg>
+            </foszakacs>
 
 
-            <Szakacs id="SZ01">
-                <Nev>Nagy János</Nev>
+            <szakacs szkod="SZ01">
+                <nev>Nagy János</nev>
                 <Reszleg>Hidegkonyha</Reszleg>
                 <Vegzettseg>Szakács</Vegzettseg>
-            </Szakacs>
+            </szakacs>
 
-            <Gyakornok id="GY01">
-                <Nev>Kiss Péter</Nev>
-                    <Gyakorlat>
-                        <Kezdete>2026.03.16</Kezdete>
-                        <Idotartam>6 hónap</Idotartam>
-                    </Gyakorlat>
-                    <Muszak>Délelőtt</Muszak>
-            </Gyakornok>
+            <gyakornok gykod="GY01">
+                <nev>Kiss Péter</nev>
+                    <gyakorlat>
+                        <kezdete>2026.03.16</kezdete>
+                        <idotartam>6 hónap</idotartam>
+                    </gyakorlat>
+                    <muszak>Délelőtt</muszak>
+            </gyakornok>
 
-        </Etterem>
+        </etterem>
 
-        <Vendeg id="V01">
-            <Nev>Kiss Róbert</Nev>
-            <Cim>
-                <Varos>Sárospatak</Varos>
-                <Utca>Kossuth utca</Utca>
-                <Hazszam>5</Hazszam>
-            </Cim>
-            <Eletkor>30</Eletkor>
-        </Vendeg>
+        <vendeg vkod="V01">
+            <nev>Kiss Róbert</nev>
+            <cim>
+                <varos>Sárospatak</varos>
+                <utca>Kossuth utca</utca>
+                <hazszam>5</hazszam>
+            </cim>
+            <eletkor>30</eletkor>
+        </vendeg>
 
-        <Rendeles>
-            <EtteremRef>E01</EtteremRef>
-            <VendegRef>V01</VendegRef>
-            <Etel>Pizza</Etel>
-            <Osszeg>3500-Ft</Osszeg>
-        </Rendeles>
+        <rendeles>
+            <etteremRef>E01</etteremRef>
+            <vendegRef>V01</vendegRef>
+            <etel>Pizza</etel>
+            <osszeg>3500-Ft</osszeg>
+        </rendeles>
 
 </EYZWG9_Vendeglatas>
